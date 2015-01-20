@@ -1,4 +1,6 @@
-"""Converted to make it compatible for Python 3.x using 2to3.py package"""
+"""This is NOT __init__.py of google-api-python-client but of apiclient.
+  Converted to make it compatible for Python 3.x using 2to3.py package. 
+  Corrected the attribute of _SUBMODULES from iteritems to items"""
 
 """Retain apiclient as an alias for googleapiclient."""
 
